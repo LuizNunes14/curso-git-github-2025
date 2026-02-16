@@ -1,8 +1,8 @@
-git init.   -> cria um repo git na pasta atual
-git status  -> mostra o status do trabalho (de cada arquivo)
-git add nome_arquivo  -> adiciona arquivo para ser commitado
-git commit -m "msg"   -> faz commit do que estava para ser commitado
-git log  -> mostra todo o histórico de commit
+git init.   	       -> cria um repo git na pasta atual
+git status  	       -> mostra o status do trabalho (de cada arquivo)
+git add nome_arquivo   -> adiciona arquivo para ser commitado
+git commit -m "msg"    -> faz commit do que estava para ser commitado
+git log  	       -> mostra todo o histórico de commit
 git checkout -b "nome" -> para criar uma branch
 git branch -D "nome branch" -> para deletar uma branch(não pode estar na branch que vai ser deletada)
 
@@ -15,6 +15,6 @@ git branch -D "nome branch" -> para deletar uma branch(não pode estar na branch
 4. git status
 5. git add <nome arquivo>
 6. git status
-7. git commit -m "mensagem"
+7. git commit -m "Mensagem"
 8. git status 
 9. volta para o passo 3.
