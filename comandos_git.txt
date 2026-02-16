@@ -3,6 +3,7 @@ git status  -> mostra o status do trabalho (de cada arquivo)
 git add nome_arquivo  -> adiciona arquivo para ser commitado
 git commit -m "msg"   -> faz commit do que estava para ser commitado
 git log  -> mostra todo o histórico de commit
+git branch -D "nome branch" -> para deletar uma branch(não pode estar na branch que vai ser deletada)
 
 
 ## FLUXO DE TRABALHO
